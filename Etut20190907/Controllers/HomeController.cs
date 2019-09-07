@@ -11,7 +11,7 @@ namespace Etut20190907.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            int a = 1;
+            int a = 5;
             return View();
         }
     }
